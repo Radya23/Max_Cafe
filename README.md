@@ -3,9 +3,8 @@
 Video Demo
 https://github.com/user-attachments/assets/09df3bc8-2c45-46fe-b821-27c88dfbcd8e
 
-Login
 ![Login](https://github.com/user-attachments/assets/069ed0e3-0939-4c0b-8c19-33ccd8633da9)
-
+Login
 ![Register](https://github.com/user-attachments/assets/9e786bc1-67d5-4d81-a1a9-c2e7ba497657)
 
 ![Home](https://github.com/user-attachments/assets/5ca29d3f-16f5-4252-9d6c-e3d6eb611d8d)
